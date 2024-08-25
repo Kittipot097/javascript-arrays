@@ -24,5 +24,5 @@ const employees = [
 // Start coding here
 let updateEmployess = employees;
 console.log(updateEmployess);
-updateEmployess.pop(updateEmployess[4]);
+updateEmployess.pop();
 console.log(updateEmployess);
